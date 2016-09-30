@@ -1,0 +1,6 @@
+[Added Associations]
+text/plain=vlc.desktop;
+image/jpeg=feh.desktop;
+
+[Default Applications]
+image/jpeg=feh.desktop
